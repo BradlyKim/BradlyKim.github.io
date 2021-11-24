@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./news.css" />
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.min.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <header>
+      <div class="page-wrapper">
+        <nav>
+          <a href="./news.html"><h2>SuperNEWS</h2></a>
+          <ul class="category-list">
+            <a href="?category=general" data-link="general">
+              <li>전체보기</li></a
+            >
+            <a href="?category=sports" data-link="sports"> <li>스포츠</li></a>
+            <a href="?category=entertainment" data-link="entertainment">
+              <li>연예</li></a
+            >
+            <a href="?category=technology" data-link="technology">
+              <li>기술</li></a
+            >
+            <a href="?category=business" data-link="business">
+              <li>비즈니스</li></a
+            >
+            <a href="?category=health" data-link="health"> <li>헬스</li></a>
+            <a href="?category=science" data-link="science"> <li>과학</li></a>
+          </ul>
+        </nav>
+        <div class="search-wrapper">
+          <select name="" class="select-country">
+            <option value="">Select Country</option>
+            <option value="kr">S.Korea</option>
+            <option value="us">USA</option>
+            <option value="jp">Japan</option>
+            <option value="cn">China</option>
+            <option value="au">Australia</option>
+            <option value="at">Austria</option>
+            <option value="be">Belgium</option>
+            <option value="bg">Bulgaria</option>
+            <option value="br">Brazil</option>
+            <option value="ca">Canada</option>
+            <option value="co">Colombia</option>
+            <option value="cu">Cuba</option>
+            <option value="eg">Egypt</option>
+            <option value="fr">France</option>
+            <option value="de">Germany</option>
+            <option value="gr">Greece</option>
+            <option value="hk">Hong Kong</option>
+            <option value="hu">Hungary</option>
+            <option value="id">Indonesia</option>
+            <option value="ie">Ireland</option>
+            <option value="il">Israel</option>
+            <option value="in">India</option>
+            <option value="it">Italy</option>
+            <option value="lt">Lithuania</option>
+            <option value="lv">Latvia</option>
+            <option value="ma">Morocco</option>
+            <option value="mx">Mexico</option>
+            <option value="my">Malaysia</option>
+            <option value="ng">Nigeria</option>
+            <option value="nl">Netherlands</option>
+            <option value="no">Norway</option>
+            <option value="nz">New Zealand</option>
+            <option value="ph">Philippines</option>
+            <option value="pl">Poland</option>
+            <option value="pt">Portugal</option>
+            <option value="ro">Romania</option>
+            <option value="ru">Russia</option>
+            <option value="sa">Saudi Arabia</option>
+            <option value="rs">Serbia</option>
+            <option value="sg">Singapore</option>
+            <option value="sk">Slovakia</option>
+            <option value="si">Slovenia</option>
+            <option value="za">South Africa</option>
+            <option value="se">Sweden</option>
+            <option value="ch">Switzerland</option>
+            <option value="tw">Taiwan</option>
+            <option value="th">Thailand</option>
+            <option value="tr">Turkey</option>
+            <option value="ua">Ukraine</option>
+            <option value="gb">United Kingdom</option>
+            <option value="ve">Venezuela</option>
+          </select>
+          <form class="form-search" action="">
+            <input name="category" id="input-category" type="hidden" />
+            <input name="country" id="input-country" type="hidden" />
+            <input
+              name="q"
+              class="input-q"
+              type="text"
+              placeholder="원하는 기사를 검색하세요"
+            />
+            <button class="btn-search">검색</button>
+          </form>
+        </div>
+      </div>
+    </header>
+    <ul class="news-list"></ul>
+    <div class="pagination"></div>
+
+    <script src="./news.js"></script>
+  </body>
+</html>
