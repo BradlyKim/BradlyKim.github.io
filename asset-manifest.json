@@ -1,24 +1,43 @@
 {
   "files": {
     "main.css": "/static/css/main.6b6e9ec0.css",
-    "main.js": "/static/js/main.b5cd5d68.js",
+    "main.js": "/static/js/main.b35f116b.js",
     "static/js/787.ac31b958.chunk.js": "/static/js/787.ac31b958.chunk.js",
+    "static/media/instaLogin.png": "/static/media/instaLogin.816087e4afc5c8f98c32.png",
+    "static/media/youtubeMain.png": "/static/media/youtubeMain.add9872550fc74f706c8.png",
+    "static/media/youtubeLogo.jpg": "/static/media/youtubeLogo.ea6a0c00ec5f19c7d63b.jpg",
+    "static/media/mediaIcon.svg": "/static/media/mediaIcon.ac7015e70314fc49b01e4b31968546e7.svg",
+    "static/media/myProfileEditBtn.svg": "/static/media/myProfileEditBtn.91e5e2d04f28ad42d58ca052fb4508f5.svg",
+    "static/media/setting.svg": "/static/media/setting.867a24af8c7a5ba2a8e6ea733f008e3b.svg",
+    "static/media/postIcon.svg": "/static/media/postIcon.d2d64fc9b6efc2ff565ba19f19377630.svg",
+    "static/media/postIconFill.svg": "/static/media/postIconFill.f80186f07ad5646c5f24f19778799c74.svg",
     "static/media/newPost.svg": "/static/media/newPost.c6c267d65b14b7ffd1e5f4eb882e64e8.svg",
+    "static/media/newPostFill.svg": "/static/media/newPostFill.c6c267d65b14b7ffd1e5f4eb882e64e8.svg",
+    "static/media/tagIcon.svg": "/static/media/tagIcon.7d6f10817763dea36f4769da3b6ce49c.svg",
+    "static/media/tagIconFill.svg": "/static/media/tagIconFill.e21395e7edaeb164aa823382f04badc9.svg",
     "static/media/heart.svg": "/static/media/heart.3fc82dca7526f1e895c76e16ae4f6653.svg",
     "index.html": "/index.html",
+    "static/media/profile.svg": "/static/media/profile.ca200d5325660a412e6672b1a7f78fa6.svg",
     "static/media/findPeople.svg": "/static/media/findPeople.e80826bffed2f417a5831e52c196d43b.svg",
     "static/media/emoticon.svg": "/static/media/emoticon.ec7a8db10e8b5b90d782b4d4268be02d.svg",
+    "static/media/polygonFill.svg": "/static/media/polygonFill.5da290e0041226c213022624cda1cb11.svg",
+    "static/media/close.svg": "/static/media/close.37efc73154c928d9b8107245a13203e5.svg",
+    "static/media/profileChange.svg": "/static/media/profileChange.2be68a5b4295f68605e7a2957020c7e5.svg",
+    "static/media/heartFill.svg": "/static/media/heartFill.933175546a27fe72ab4bebb9d8c1cbaa.svg",
     "static/media/polygon.svg": "/static/media/polygon.e85ba4f06ba008caa326f7b311cc5c90.svg",
+    "static/media/findPeopleFill.svg": "/static/media/findPeopleFill.c9c1f73d21709b9777242ce2c8472b63.svg",
+    "static/media/imgHomeFill.svg": "/static/media/imgHomeFill.0b29f53f729fc1c15a8900ee8effb288.svg",
     "static/media/imgHome.svg": "/static/media/imgHome.b7511881e6fd15fc6fca81e3b176e2b6.svg",
-    "static/media/save.svg": "/static/media/save.fa60b04ac5c262821ffdd694516f6241.svg",
+    "static/media/save.svg": "/static/media/save.50299764a77a86e4f734112ec6a6700c.svg",
+    "static/media/saveFill.svg": "/static/media/saveFill.d6b0d99646d0a8e41917375f8df98f40.svg",
     "static/media/speechBubble.svg": "/static/media/speechBubble.ae8b37e2d7d3878826bd366b7ebc8bfe.svg",
     "static/media/moreMenu.svg": "/static/media/moreMenu.8ae7d0de9b3f522149cf0c351df39f12.svg",
     "main.6b6e9ec0.css.map": "/static/css/main.6b6e9ec0.css.map",
-    "main.b5cd5d68.js.map": "/static/js/main.b5cd5d68.js.map",
+    "main.b35f116b.js.map": "/static/js/main.b35f116b.js.map",
     "787.ac31b958.chunk.js.map": "/static/js/787.ac31b958.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b6e9ec0.css",
-    "static/js/main.b5cd5d68.js"
+    "static/js/main.b35f116b.js"
   ]
 }
